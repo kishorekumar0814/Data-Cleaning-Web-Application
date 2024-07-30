@@ -28,7 +28,7 @@ This project is a web application designed for automated data cleaning. It allow
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/data-cleaning-webapp.git
+   git clone https://github.com/kishorekumar0814/data-cleaning-webapp.git
    cd data-cleaning-webapp
 2. **Set Up a Virtual Environment (Recommended)**
     ```bash
